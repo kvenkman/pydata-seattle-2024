@@ -1,8 +1,14 @@
-name: pydata-seattle-demo
+name: opera-demo
 channels:
   - conda-forge
 dependencies:
- - rasterio
  - jupyterlab
+ - matplotlib
+ - rasterio
  - pandas
  - pystac
+ - gdal
+ - contextily
+ - folium
+ - pystac-client
+ - shapely
