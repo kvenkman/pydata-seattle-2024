@@ -1,0 +1,8 @@
+name: pydata-seattle-demo
+channels:
+  - conda-forge
+dependencies:
+ - rasterio
+ - jupyterlab
+ - pandas
+ - pystac
