@@ -1,0 +1,1 @@
+The demo notebook requires a NASA Earthdata credentials to work. Create an account (here)[https://urs.earthdata.nasa.gov/users/new], and then fill the template `.netrc` with the obtained credentials and place it in your home directory.
