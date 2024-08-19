@@ -12,3 +12,7 @@ dependencies:
  - folium
  - pystac-client
  - shapely
+ - ipyleaflet
+ - geopandas
+ - pdal
+ - pyproj
